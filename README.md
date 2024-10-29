@@ -12,7 +12,7 @@ To run this app locally, follow these steps:
 1. Clone the repo locally
 
 ```bash
-git clone https://github.com/danielkiing3/headspace_onboarding.git
+git clone https://github.com/danielkiing3/path_animation.git
 cd headspace_onboarding
 ```
 2. Install dependencies:
