@@ -2,11 +2,7 @@
 
 | Fill View  | Travel View |
 | ------------- | ------------- |
-| 
-https://github.com/user-attachments/assets/442761c8-e19e-4c70-b014-b7dfa4ea8310
-| 
-https://github.com/user-attachments/assets/fa5d22f6-b1c6-4a03-9152-d6e88c42cd37
-|
+| https://github.com/user-attachments/assets/442761c8-e19e-4c70-b014-b7dfa4ea8310 | https://github.com/user-attachments/assets/fa5d22f6-b1c6-4a03-9152-d6e88c42cd37 |
 
 ## Installation
 To run this app locally, follow these steps:
